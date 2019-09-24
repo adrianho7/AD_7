@@ -37,27 +37,12 @@ Facourite Brand:
 |US|UK|JPN|
 
 ```
-package com.amazonaws.polly.samples;
- 
-import com.amazonaws.services.polly.AmazonPolly;
-import com.amazonaws.services.polly.AmazonPollyClientBuilder;
-import com.amazonaws.services.polly.model.DeleteLexiconRequest;
- 
-public class DeleteLexiconSample {
-    private String LEXICON_NAME = "SampleLexicon";
- 
-    AmazonPolly client = AmazonPollyClientBuilder.defaultClient();
- 
-    public void deleteLexicon() {
-        DeleteLexiconRequest deleteLexiconRequest = new DeleteLexiconRequest().withName(LEXICON_NAME);
- 
-        try {
-            client.deleteLexicon(deleteLexiconRequest);
-        } catch (Exception e) {
-            System.err.println("Exception caught: " + e);
-        }
-    }
-}
+ruby
+def index
+puts "Hello Trend"
+end
 ```
 
+![One Piece](ACE.SABO.LUFFY.jpg)
 
+[![HOW BIG IS THE LONGEST KAWS COMPANION IN THE WORLD](https://img.youtube.com/vi/9V5gE5DdDgI/0.jpg)](https://www.youtube.com/watch?v=9V5gE5DdDgI "HOW BIG IS THE LONGEST KAWS COMPANION IN THE WORLD")
