@@ -33,7 +33,7 @@ Facourite Brand:
 
 |Supreme|Palace|A Bathing Ape|
 |:----------|:----------:|----------:|
-|Box Logo|Triangle|Deaf|
+|Box Logo|Triangle Logo|Deaf&Shark Logo|
 |US|UK|JPN|
 
 ```
