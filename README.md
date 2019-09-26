@@ -31,9 +31,9 @@ Facourite Brand:
 
 [Xiao Pi Hai小屁孩] <https://www.youtube.com/channel/UCS689tLcNTRejDH2uCULLdA>
 
-|Supreme|Palace|A Bathing Ape|
+|Supreme|Palace|Bape|
 |:----------|:----------:|----------:|
-|Box Logo|Triangle Logo|Deaf&Shark Logo|
+|Box Logo|Triangle Logo|Deaf & Shark Logo|
 |US|UK|JPN|
 
 ```
@@ -48,7 +48,7 @@ end
 [![HOW BIG IS THE LONGEST KAWS COMPANION IN THE WORLD](https://img.youtube.com/vi/9V5gE5DdDgI/0.jpg)](https://www.youtube.com/watch?v=9V5gE5DdDgI "HOW BIG IS THE LONGEST KAWS COMPANION IN THE WORLD")
 
 >1.專題題目
->>房屋虛擬機
++ 房屋虛擬機
 
 >2.文字敘述專題需求
 
